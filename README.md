@@ -146,7 +146,6 @@ public class Main {
 
         Main main = new Main();
 
-        // 👉 Você pode trocar aqui para 10, 30, 50 se quiser igual ao slide
         int[] populationSizes = { 4, 8, 12 };
 
         double[][] resultsTable = new double[populationSizes.length][4];
