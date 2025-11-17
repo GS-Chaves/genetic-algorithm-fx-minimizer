@@ -1,0 +1,10 @@
+# Build output
+/target/
+
+# Temporary files
+.~lock.*
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
